@@ -4,7 +4,7 @@ Interstellar is a platform where you can move through our solarsystem. Get infor
 
 <br>
 
-<img width="1536" alt="Screenshot 2022-07-11 at 19 43 07" src="https://user-images.githubusercontent.com/96595583/178325328-5c51cfbd-fc25-4324-b7d9-e031e0bcd1d4.png">
+<img width="1536" alt="Screenshot 2022-07-11 at 19 48 45" src="https://user-images.githubusercontent.com/96595583/178326210-d0fb0449-222e-4569-a876-52d54703d067.png">
 
 ## Get started
 

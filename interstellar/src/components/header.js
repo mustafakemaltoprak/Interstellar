@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Header() {
   return (
-    <section class="pb-20 bg-black">
+    <section class="pb-20 bg-black" id="section">
       <nav class="relative">
         <div
           class="flex py-8 px-4 lg:px-8 justify-between items-center"
@@ -132,23 +132,6 @@ export default function Header() {
               alt=""
               id="homepage-icon"
             />
-          </div>
-        </div>
-        <div class="max-w-4xl mx-auto -mb-12 flex flex-wrap items-center justify-center">
-          <div class="w-1/2 md:w-1/3 lg:w-1/5 px-2 mb-12">
-            <img class="h-8 mx-auto" src="/nike.svg" alt="" />
-          </div>
-          <div class="w-1/2 md:w-1/3 lg:w-1/5 px-2 mb-12">
-            <img class="h-8 mx-auto" src="/marvel.svg" alt="" />
-          </div>
-          <div class="w-1/2 md:w-1/3 lg:w-1/5 px-2 mb-12">
-            <img class="h-8 mx-auto" src="/airbnb.svg" alt="" />
-          </div>
-          <div class="w-1/2 md:w-1/3 lg:w-1/5 px-2 mb-12">
-            <img class="h-8 mx-auto" src="/facebook.svg" alt="" />
-          </div>
-          <div class="w-1/2 md:w-1/3 lg:w-1/5 px-2 mb-12">
-            <img class="h-8 mx-auto" src="/tesla.svg" alt="" />
           </div>
         </div>
       </div>
